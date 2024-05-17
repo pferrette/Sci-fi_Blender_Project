@@ -1,0 +1,6 @@
+OBJ:
+
+Luminária
+escada
+canos
+armarios
